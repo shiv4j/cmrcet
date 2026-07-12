@@ -1,6 +1,11 @@
 Hello World 
+<<<<<<< HEAD
 hello world'dsghsdoghskdgh
 srfysdydst
 y
 dty
 tds
+=======
+hello wrold
+hello world
+>>>>>>> shiva

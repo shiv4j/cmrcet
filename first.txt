@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hiiiiiiiiiiiii
 helooooooooooo
+=======
+hello students
+>>>>>>> shiva
